@@ -33,7 +33,7 @@ birth_year = input('Birth year: ')
 print(type(birth_year))
 age = 2022 - int(birth_year)
 print(type(age))
-print(age)
+print(str(age) + ' years old')
 # Exercicio: pergunte o peso em libras e converta para quilos no terminal
 weight_pounds = input('Weight (lbs): ')
 weight_kilos = int(weight_pounds)/2.2046
