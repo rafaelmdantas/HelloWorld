@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc3944ec-b88f-4d40-bc9f-86da8cba91a9" name="Changes" comment="Using While loop">
-      <change afterPath="$PROJECT_DIR$/Car_game.py" afterDir="false" />
+    <list default="true" id="fc3944ec-b88f-4d40-bc9f-86da8cba91a9" name="Changes" comment="Car Game">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +48,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Car_game.py" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
@@ -283,7 +285,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641583681768</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Using While loop">
+      <created>1641670665057</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1641670665057</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Car Game">
+      <created>1641670696100</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1641670696100</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,7 +307,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -301,6 +329,7 @@
     <MESSAGE value="Python's beginners - str" />
     <MESSAGE value="Python's beginners - formated str" />
     <MESSAGE value="Using While loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using While loop" />
+    <MESSAGE value="Car Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Car Game" />
   </component>
 </project>
